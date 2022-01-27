@@ -1,0 +1,15 @@
+D:\TestProgram\Class_Object\Class_Object\bin\Debug\net6.0\Class_Object.exe
+D:\TestProgram\Class_Object\Class_Object\bin\Debug\net6.0\Class_Object.deps.json
+D:\TestProgram\Class_Object\Class_Object\bin\Debug\net6.0\Class_Object.runtimeconfig.json
+D:\TestProgram\Class_Object\Class_Object\bin\Debug\net6.0\Class_Object.dll
+D:\TestProgram\Class_Object\Class_Object\bin\Debug\net6.0\ref\Class_Object.dll
+D:\TestProgram\Class_Object\Class_Object\bin\Debug\net6.0\Class_Object.pdb
+D:\TestProgram\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.csproj.AssemblyReference.cache
+D:\TestProgram\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProgram\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.AssemblyInfoInputs.cache
+D:\TestProgram\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.AssemblyInfo.cs
+D:\TestProgram\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.csproj.CoreCompileInputs.cache
+D:\TestProgram\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.dll
+D:\TestProgram\Class_Object\Class_Object\obj\Debug\net6.0\ref\Class_Object.dll
+D:\TestProgram\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.pdb
+D:\TestProgram\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.genruntimeconfig.cache
